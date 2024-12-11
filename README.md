@@ -21,7 +21,8 @@ Hello! My name is Gregory Schmidt Daniel, and I’m a **Computer Engineering** s
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Academic Knowledge
-Relevant Subjects I Have Completed:
+Relevant Courses:
+
 Algorithms and Programming I and II, Data Structures, Digital Circuits, Digital Systems Design, Object-Oriented Programming, Architecture and Organization of Processors, Mobile Devices Programming, Software Engineering, Computer Organization,
 Databases, Operating Systems, Real-Time Systems.
 
